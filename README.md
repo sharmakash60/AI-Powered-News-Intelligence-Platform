@@ -193,3 +193,13 @@ Full interactive docs: `http://localhost:8000/docs`
 - **User bookmarks** — Save and annotate articles
 - **Multi-language** — Extend to non-English news sources
 - **Deployment** — Docker Compose for one-command deployment + Railway/Render hosting
+
+## My Approach
+
+I designed the platform as a full-stack AI-powered news intelligence system using FastAPI, MongoDB, and React. The backend fetches and processes real-time articles from NewsData.io, while Gemini AI generates summaries, sentiment analysis, and key insights. MongoDB stores all processed articles efficiently, and the React dashboard provides interactive analytics, filtering, and pagination.
+
+The architecture was designed to be modular, scalable, and easy to extend with additional AI features in the future.
+
+
+
+
