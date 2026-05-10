@@ -21,6 +21,34 @@ An end-to-end news intelligence platform that fetches real-time articles, proces
 
 ---
 
+---
+
+## Dashboard Screenshots
+
+### Homepage Dashboard
+
+![Dashboard](./screenshots/1.png)
+
+---
+
+### Analytics & Charts
+
+![Analytics](./screenshots/2.png)
+
+---
+
+### Article Intelligence Cards
+
+![Articles](./screenshots/3.png)
+
+---
+
+### Search, Filters & Pagination
+
+![Filters](./screenshots/4.png)
+
+---
+
 ## Tech Stack
 
 | Layer     | Technology               | Rationale |
