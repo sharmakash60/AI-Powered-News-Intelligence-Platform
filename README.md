@@ -27,25 +27,25 @@ An end-to-end news intelligence platform that fetches real-time articles, proces
 
 ### Homepage Dashboard
 
-![Dashboard](./screenshots/1.png)
+![Dashboard](./Screenshots/1.png)
 
 ---
 
 ### Analytics & Charts
 
-![Analytics](./screenshots/2.png)
+![Analytics](./Screenshots/2.png)
 
 ---
 
 ### Article Intelligence Cards
 
-![Articles](./screenshots/3.png)
+![Articles](./Screenshots/3.png)
 
 ---
 
 ### Search, Filters & Pagination
 
-![Filters](./screenshots/4.png)
+![Filters](./Screenshots/4.png)
 
 ---
 
